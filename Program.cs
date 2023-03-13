@@ -10,6 +10,7 @@ namespace AgavaTutorial
     {
         static void Main(string[] args)
         {
+            int age;
         }
     }
 }
